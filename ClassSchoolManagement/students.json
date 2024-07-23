@@ -18,5 +18,15 @@
         "age": 12,
         "grade": "5",
         "name": "okilu"
+    },
+    {
+        "age": 21,
+        "grade": "5",
+        "name": "kolki"
+    },
+    {
+        "age": 89,
+        "grade": "77",
+        "name": "jikleo"
     }
 ]
