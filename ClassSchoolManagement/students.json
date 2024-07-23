@@ -13,5 +13,10 @@
         "age": 22,
         "grade": "5",
         "name": "amel"
+    },
+    {
+        "age": 12,
+        "grade": "5",
+        "name": "okilu"
     }
 ]
